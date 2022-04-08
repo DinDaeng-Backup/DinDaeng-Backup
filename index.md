@@ -1,5 +1,5 @@
 # DinDaeng Backup Site
 
-## [English Articles](main/English Articles)
+## English Articles
 
 ## บทความภาษาไทย
