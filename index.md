@@ -6,7 +6,7 @@
 
 
 ### English Articles
-<!-- English Starts -->[2020: Remedying Thailand’s Democracy ](English Articles/English%20Articles/2020%20Remedying%20Thailands%20Democracy.md)
+<!-- English Starts -->[2020: Remedying Thailand’s Democracy ](https://github.com/DinDaeng-Backup/DinDaeng-Backup/blob/main/English%20Articles/2020%20Remedying%20Thailands%20Democracy.md)
 
 <!-- English Ends -->
 ### บทความภาษาไทย
