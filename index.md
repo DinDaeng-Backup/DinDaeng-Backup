@@ -1,4 +1,4 @@
-# DinDaeng Backup Site
+<h1 align="center"> DinDaeng Backup Site </h1>
 
 ## [English Articles](https://github.com/DinDaeng-Backup/DinDaeng-Backup/blob/main/index.md#english-articles-1)
 
