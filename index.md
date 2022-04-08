@@ -7,9 +7,6 @@
 
 ### English Articles
 <!-- English Starts -->
-[2020: Remedying Thailand’s Democracy ](https://github.com/DinDaeng-Backup/DinDaeng-Backup/blob/main/English%20Articles/2020%20Remedying%20Thailands%20Democracy.md)
-[Abolish The Capital](https://github.com/DinDaeng-Backup/DinDaeng-Backup/blob/main/English%20Articles/Abolish%20The%20Capital.md)
-[Aed Carabao: Made in Thailand](https://github.com/DinDaeng-Backup/DinDaeng-Backup/blob/main/English%20Articles/Aed%20Carabao%20Made%20in%20Thailand.md)
 
 <!-- English Ends -->
 ### บทความภาษาไทย
