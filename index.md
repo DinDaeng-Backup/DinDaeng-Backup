@@ -5,7 +5,7 @@
 <!-- Thai Starts -->
 
 <!-- Thai Ends -->
-[2020 Remedying Thailands Democracy.](https://github.com/DinDaeng-Backup/DinDaeng-Backup/blob/main/English%20Articles/2020%20Remedying%20Thailands%20Democracy.md)
+[2020 Remedying Thailands Democracy.](https://github.com/DinDaeng-Backup/DinDaeng-Backup/blob/main/English Articles/2020 Remedying Thailands Democracy.md)
 
 <h1 align="center"> DinDaeng Backup Site </h1>
 
