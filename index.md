@@ -859,5 +859,7 @@
 
 [ไรเดอร์ทุกแห่งหนจงรวมตัวกัน: บทสัมภาษณ์สหายจากสหภาพไรเดอร์](https://github.com/DinDeng-Backup/DinDeng-Backup/blob/main/บทความภาษาไทย/ไรเดอร์ทุกแห่งหนจงรวมตัวกัน%20บทสัมภาษณ์สหายจากสหภาพไรเดอร์.md)
 
+[พระปฏิวัติชาวไอริชในพม่า](https://github.com/DinDeng-Backup/DinDeng-Backup/blob/main/บทความภาษาไทย/พระปฏิวัติชาวไอริชในพม่า.md)
+
 
 <!-- Thai Ends -->
