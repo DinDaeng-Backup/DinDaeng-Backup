@@ -861,5 +861,7 @@
 
 [พระปฏิวัติชาวไอริชในพม่า](https://github.com/DinDeng-Backup/DinDeng-Backup/blob/main/บทความภาษาไทย/พระปฏิวัติชาวไอริชในพม่า.md)
 
+[กรรมสิทธิ์ส่วนบุคคล](https://github.com/DinDeng-Backup/DinDeng-Backup/blob/main/บทความภาษาไทย/กรรมสิทธิ์ส่วนบุคคล.md)
+
 
 <!-- Thai Ends -->
