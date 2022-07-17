@@ -863,5 +863,7 @@
 
 [กรรมสิทธิ์ส่วนบุคคล](https://github.com/DinDeng-Backup/DinDeng-Backup/blob/main/บทความภาษาไทย/กรรมสิทธิ์ส่วนบุคคล.md)
 
+[บาปกำเนิดชนชั้นกลาง](https://github.com/DinDeng-Backup/DinDeng-Backup/blob/main/บทความภาษาไทย/บาปกำเนิดชนชั้นกลาง.md)
+
 
 <!-- Thai Ends -->
